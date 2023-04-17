@@ -43,7 +43,7 @@ const  Navbar = () => {
       <CssBaseline />
       <Toolbar>
         <Typography variant="h4" className={classes.logo}>
-          Navbar
+          Piece of Pi
           
         </Typography>
         {isMobile ? (
