@@ -20,6 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 - Entry point in src/index.js
 - You will add new pages(routes) to src/App/App.jsx
+- utilizes https://github.com/matijagaspar/ws-avc-player for the video player
 
 ## New Components and CSS
 
